@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - AI Aptitude Exam Portal</title>
+    <link rel="stylesheet" href="css/admin_style.css">
+    <script src="admin_script.js" defer></script>
+</head>
+<body>
+    <div class="sidebar">
+        <h2>Admin Panel</h2>
+        <ul>
+            <li><a href="#dashboard">Dashboard</a></li>
+            <li><a href="#manage-questions">Manage Questions</a></li>
+            <li><a href="#user-analytics">User Analytics</a></li>
+            <li><a href="#settings">Settings</a></li>
+        </ul>
+    </div>
+    
+    <div class="main-content">
+        <header>
+            <h1>Welcome to Admin Panel</h1>
+        </header>
+        
+        <section id="dashboard">
+            <h2>Dashboard Overview</h2>
+            <p>View statistics about users, test attempts, and performance metrics.</p>
+        </section>
+        
+        <section id="manage-questions">
+            <h2>Manage Questions</h2>
+            <button onclick="addQuestion()">Add New Question</button>
+            <div id="question-list">
+                <!-- List of Questions will be dynamically loaded here -->
+            </div>
+        </section>
+        
+        <section id="user-analytics">
+            <h2>User Analytics</h2>
+            <p>Track user performance, test completion rates, and accuracy insights.</p>
+        </section>
+        
+        <section id="settings">
+            <h2>Settings</h2>
+            <p>Adjust test parameters, difficulty levels, and system configurations.</p>
+        </section>
+    </div>
+</body>
+</html>

@@ -1,0 +1,95 @@
+topic,difficulty,question,option_a,option_b,option_c,option_d,answer
+Ratios,Hard,The sum of two numbers is 80 and their ratio is 3:5. Find the numbers.,24 and 56,30 and 50,36 and 44,40 and 40,B
+Ratios,Hard,"If x:y = 2:3 and y:z = 4:5, find x:y:z.",8:12:15,6:8:10,4:6:8,2:4:5,A
+Number Series,Hard,"What comes next in the series: 1, 3, 6, 10, 15, ...?",21,22,23,24,A
+Probability,Medium,"If you pick a card from a deck of cards, what is the probability that it is a face card?",3/13,2/13,4/13,5/13,A
+Number Series,Hard,"What comes next in the series: 1, 1, 2, 6, 24, 120, ...?",720,125,150,180,A
+Percentages,Easy,Find 20% of 200.,30,40,50,60,B
+Ratios,Medium,"If 5A = 7B, find A:B.",5:7,7:5,7:10,10:7,B
+Percentages,Medium,What percent of 500 is 125?,20%,25%,30%,35%,B
+Percentages,Medium,"If 80 is increased by 25%, find the new number.",90,95,100,105,D
+Percentages,Easy,Find 75% of 160.,110,115,120,125,C
+Verbal Reasoning,Hard,Choose the word that fits this analogy: Hot is to Cold as Day is to ___,Night,Bright,Dawn,Evening,A
+Verbal Reasoning,Easy,"Find the odd one out: Square, Rectangle, Circle, Triangle",Circle,Square,Rectangle,Triangle,A
+Ratios,Easy,Simplify 12:18.,2:3,3:2,4:5,5:4,A
+Probability,Easy,"If you flip a coin, what is the probability of getting heads?",1/2,1/3,1/4,1/5,A
+Probability,Easy,What is the probability of drawing a red card from a deck of cards?,1/2,1/3,1/4,1/5,A
+Percentages,Hard,"If the cost price is 600 and the selling price is 660, find the profit percent.",8%,9%,10%,11%,C
+Percentages,Easy,"If 50% of a number is 75, find the number.",130,140,150,160,C
+Percentages,Medium,What is 40% of 250?,80,90,100,110,B
+Percentages,Hard,An article costing 400 is sold at a gain of 15%. Find the selling price.,450,460,470,480,B
+Number Series,Medium,"What comes next in the series: 1, 1, 2, 6, 24, ...?",120,125,130,135,A
+Ratios,Easy,Simplify the ratio 18:24.,2:3,3:4,4:5,5:6,B
+Percentages,Medium,"If 60 is 30% of x, find x.",180,200,210,220,A
+Verbal Reasoning,Medium,Choose the correct antonym for 'Generous'.,Selfish,Kind,Wealthy,Friendly,A
+Number Series,Easy,"What comes next in the series: 3, 9, 27, 81, ...?",243,256,270,300,A
+Ratios,Medium,"If A:B = 2:3 and B:C = 4:5, find A:C.",8:15,4:5,3:5,2:5,A
+Verbal Reasoning,Hard,Which of these is the synonym for 'Genuine'?,Fake,Real,Imaginary,Uncertain,B
+Verbal Reasoning,Easy,Choose the antonym for 'Difficult'.,Hard,Easy,Impossible,Unpredictable,B
+Number Series,Easy,"What comes next in the series: 7, 14, 21, 28, ...?",30,31,32,35,A
+Ratios,Easy,Simplify the ratio 8:12.,2:3,3:4,4:5,5:6,A
+Probability,Hard,"In a deck of 52 cards, what is the probability of drawing a red heart?",1/52,1/26,1/52,1/13,D
+Number Series,Medium,"What comes next in the series: 4, 10, 18, 28, ...?",38,40,42,44,C
+Number Series,Medium,"What comes next in the series: 5, 11, 19, 29, ...?",41,42,43,44,B
+Probability,Easy,What is the probability of getting a 5 on a fair die?,1/6,1/4,1/3,1/2,A
+Verbal Reasoning,Medium,Which of these words does not belong?,Apple,Carrot,Banana,Grapes,B
+Verbal Reasoning,Medium,Select the word that is most similar to 'Happiness'.,Sorrow,Joy,Anger,Fear,B
+Percentages,Easy,What is 10% of 450?,45,50,55,60,A
+Verbal Reasoning,Easy,"Find the next word in the series: Cat, Dog, Lion, Tiger, ...",Elephant,Cheetah,Leopard,Giraffe,B
+Verbal Reasoning,Medium,Which of the following is the opposite of 'Deep'?,Shallow,High,Long,Narrow,A
+Probability,Medium,"If a fair die is rolled, what is the probability of getting a number greater than 4?",1/3,1/2,1/4,1/6,A
+Probability,Hard,What is the probability of drawing a queen or a king from a deck of cards?,2/13,4/13,1/13,3/13,A
+Number Series,Hard,"What comes next in the series: 8, 18, 38, 78, ...?",158,160,162,164,A
+Number Series,Easy,"What comes next in the series: 1, 4, 9, 16, ...?",20,25,30,35,B
+Ratios,Medium,"If A:B = 5:7, find (A+B):(A-B).",6:1,5:2,3:1,7:2,A
+Number Series,Hard,"What comes next in the series: 0, 2, 6, 12, ...?",20,24,28,30,B
+Ratios,Easy,Find the ratio of 3 hours to 45 minutes.,4:1,3:2,2:1,1:4,C
+Probability,Hard,"If a coin is tossed 3 times, what is the probability of getting exactly 2 heads?",3/8,1/2,1/4,5/8,A
+Ratios,Medium,"The ratio of A to B is 3:5. If A is 60, find B.",80,90,100,110,B
+Verbal Reasoning,Medium,Find the correct sentence structure: 'I can learn quickly.',"Subject, Verb, Adjective","Subject, Verb, Object","Subject, Object, Verb","Subject, Verb, Complement",B
+Percentages,Medium,Find 35% of 720.,240,252,260,270,B
+Ratios,Hard,Find the duplicate ratio of 5:7.,25:49,5:14,7:5,49:25,A
+Probability,Hard,What is the probability of getting two heads when two coins are tossed?,1/4,1/3,1/2,1/5,A
+Ratios,Easy,Divide 90 into the ratio 2:3.,36 and 54,30 and 60,40 and 50,20 and 70,A
+Probability,Hard,What is the probability of getting a sum of 8 when two dice are rolled?,5/36,6/36,7/36,8/36,A
+Probability,Medium,What is the probability of drawing a number card (2-10) from a deck of cards?,4/13,5/13,6/13,7/13,A
+Verbal Reasoning,Easy,Choose the synonym for 'Happy'.,Sad,Joyful,Angry,Tired,B
+Probability,Easy,"In a deck of 52 cards, what is the probability of drawing a king?",1/13,1/52,1/26,1/12,A
+Probability,Hard,"A bag contains 10 red, 5 green, and 15 blue balls. What is the probability of drawing a green ball?",1/3,1/5,1/2,1/4,B
+Number Series,Medium,"What comes next in the series: 1, 2, 4, 8, 16, ...?",32,36,40,44,A
+Ratios,Hard,Find the triplicate ratio of 2:3.,8:27,6:9,9:8,2:3,A
+Ratios,Medium,Find the mean proportional between 16 and 64.,32,40,48,50,A
+Verbal Reasoning,Medium,What is the opposite of 'Positive'?,Neutral,Negative,Optimistic,Hopeful,B
+Verbal Reasoning,Hard,Find the word that best completes the analogy: Small is to Tiny as Large is to ___,Huge,Big,Tall,Heavy,A
+Probability,Medium,"If two dice are thrown, what is the probability of getting a sum of 7?",1/6,1/5,1/4,1/3,A
+Percentages,Medium,A number is reduced by 10% and becomes 450. Find the original number.,480,500,520,540,B
+Percentages,Easy,Find 5% of 600.,25,30,35,40,B
+Ratios,Hard,"If the ratio of boys to girls is 7:5 and total students are 360, find the number of boys.",200,210,220,230,B
+Verbal Reasoning,Hard,Choose the word that is most opposite to 'Silent'.,Noisy,Loud,Quiet,Hearing,A
+Probability,Hard,"What is the probability of selecting a number less than 5 from the set {1, 2, 3, 4, 5, 6}?",2/6,1/6,3/6,4/6,A
+Verbal Reasoning,Medium,"Choose the odd one out: Sun, Moon, Star, Planet, Earth.",Planet,Moon,Earth,Star,C
+Probability,Medium,"In a class of 30 students, 18 are boys. What is the probability of selecting a girl?",2/5,3/5,4/5,1/5,B
+Number Series,Medium,"What comes next in the series: 2, 5, 10, 17, ...?",24,25,26,27,A
+Number Series,Easy,"What comes next in the series: 2, 8, 18, 32, ...?",50,60,70,80,B
+Verbal Reasoning,Easy,Which is the odd one out?,Apple,Banana,Carrot,Grapes,C
+Verbal Reasoning,Hard,Which of the following does not belong?,Speech,Writing,Reading,Running,D
+Number Series,Easy,"What comes next in the series: 5, 10, 15, 20, ...?",25,26,27,28,A
+Ratios,Hard,Three numbers are in ratio 1:2:3. Their sum is 180. Find the numbers.,"30, 60, 90","20, 40, 60","25, 50, 75","35, 70, 105",A
+Percentages,Easy,Find 2% of 500.,10,15,20,25,A
+Ratios,Easy,Divide 100 in the ratio 1:2.,25 and 75,30 and 70,40 and 60,50 and 50,A
+Verbal Reasoning,Hard,"Choose the odd one out: Water, Fire, Earth, Air, Wood.",Wood,Earth,Fire,Water,A
+Number Series,Medium,"What comes next in the series: 3, 6, 12, 24, ...?",48,50,52,54,A
+Percentages,Easy,"If 12% of x is 36, find x.",200,250,300,400,C
+Percentages,Hard,"A man spends 85% of his income. If his income is 40000, find his savings.",5000,5500,6000,6500,A
+Number Series,Hard,"What comes next in the series: 10, 20, 40, 80, ...?",160,170,180,190,A
+Ratios,Medium,Ratio of 50 paise to 2 rupees?,1:2,1:4,2:5,1:3,B
+Percentages,Medium,"A's salary is 25% more than B's. If B's salary is 20000, find A's.",24000,25000,26000,27000,A
+Number Series,Easy,"What comes next in the series: 3, 6, 9, 12, ...?",13,14,15,16,C
+Percentages,Hard,"If a price is increased by 20% and then reduced by 20%, find the net change.",Increase 4%,Decrease 4%,No change,Increase 2%,B
+Percentages,Hard,Find the number whose 15% is 90.,580,600,620,640,B
+Number Series,Easy,"What comes next in the series: 2, 4, 6, 8, ...?",10,12,14,16,A
+Ratios,Medium,A and B share profits in ratio 3:5. Total profit is 16000. Find A's share.,6000,7000,8000,9000,A
+Percentages,Hard,"If a number is first increased by 40% and then decreased by 30%, find the net change.",Decrease 2%,Increase 2%,Increase 5%,Decrease 5%,B
+Probability,Medium,What is the probability of drawing a red card from a deck of 52 cards?,1/2,1/4,1/3,1/6,A
+Number Series,Hard,"What comes next in the series: 4, 9, 16, 25, ...?",36,38,40,42,A
+Ratios,Hard,Three numbers are in the ratio 2:3:5. Their sum is 1000. Find the largest number.,400,500,600,700,B
